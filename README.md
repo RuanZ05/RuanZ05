@@ -1,5 +1,5 @@
 
-# 👋 Olá! Eu sou o Ruan
+#  Olá! Eu sou o Ruan
 
 ### 💻 Desenvolvedor de Software em formação | Sistemas para Internet
 
@@ -11,9 +11,9 @@ Atualmente, estou desenvolvendo projetos acadêmicos e pessoais, buscando aprimo
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
-### 💻 Linguagens de Programação
+###  Linguagens de Programação
 
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5"></a>
@@ -22,7 +22,7 @@ Atualmente, estou desenvolvendo projetos acadêmicos e pessoais, buscando aprimo
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript"></a>
 </p>
 
-### 🚀 Desenvolvimento Web
+###  Desenvolvimento Web
 
 <p align="left">
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="45" alt="React"></a>
@@ -31,14 +31,14 @@ Atualmente, estou desenvolvendo projetos acadêmicos e pessoais, buscando aprimo
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="45" alt="Express"></a>
 </p>
 
-### 🗄️ Banco de Dados
+###  Banco de Dados
 
 <p align="left">
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"></a>
 </p>
 
-### 🔧 Ferramentas
+###  Ferramentas
 
 <p align="left">
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"></a>
@@ -49,7 +49,7 @@ Atualmente, estou desenvolvendo projetos acadêmicos e pessoais, buscando aprimo
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 - Engenharia de Software
 - Análise e modelagem de sistemas
