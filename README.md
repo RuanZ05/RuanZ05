@@ -60,21 +60,17 @@ Atualmente, estou desenvolvendo projetos acadêmicos e pessoais, buscando aprimo
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📫 Entre em contato
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RuanZ05&show_icons=true&theme=tokyonight&hide_border=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanZ05&layout=compact&theme=tokyonight&hide_border=true">
+<p align="left">
+  <a href="mailto:ruancastilho@outlook.com">
+    <img src="https://img.shields.io/badge/Email-ruancastilho%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/RuanZ05">
+    <img src="https://img.shields.io/badge/GitHub-RuanZ05-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
-
-## 📫 Contato
-
-<p align="left">
-  <a href="https://github.com/RuanZ05">
-    <img src="https://img.shields.io/badge/GitHub-RuanZ05-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
 
 ⭐ Obrigado por visitar meu perfil!
